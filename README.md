@@ -8,7 +8,7 @@ This repository is an implementation of using CNN network to identify American S
 
 ## Requirements
 
-* `opencv-pytho`
+* `opencv-python`
 * `numpy`
 * `tensorflow`
 * `spellchecker`
