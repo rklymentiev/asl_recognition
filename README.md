@@ -71,9 +71,7 @@ $ python asl_recognizer.py
 **Some instructions:**
 
 * Once started adjust the threshold values for edge detection so you can see just the edges of your palm and fingers.
-
-<center>![](https://github.com/ruslan-kl/asl_recognition/blob/master/misc/threshold_values.gif?raw=true)</center>
-
+![](https://github.com/ruslan-kl/asl_recognition/blob/master/misc/threshold_values.gif?raw=true)
 * Press `S` to start/pause the output generation.
 * Press `D` to erase the output section.
 * Press `Q` to quit the script.
