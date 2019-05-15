@@ -47,7 +47,7 @@ cv2.setTrackbarPos('upper_threshold', 'Model Image', 0)
 # VARIABLES INITIALIZATION
 # THRESHOLD - ratio of the same letter in the last N_FRAMES predicted letters
 THRESHOLD = 0.85
-N_FRAMES = 30
+N_FRAMES = 25
 
 IMG_SIZE = 100
 SENTENCE = '' # string that will hold the final output
@@ -213,7 +213,7 @@ while True:
     cv2.imshow('Output', blank_image)
 
     if cv2.waitKey(30) & 0xFF == ord('s'):
-        start = not start
+        START = not START
 
     if cv2.waitKey(30) & 0xFF == ord('d'):
         SENTENCE = ''
