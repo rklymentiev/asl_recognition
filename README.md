@@ -16,7 +16,7 @@ This repository is an implementation of using CNN network to identify American S
 
 ## Data Set
 
-Data set was created by me (approximately 1200 images for 1 gesture). Original idea of the data set was found on [Kaggle](https://www.kaggle.com/grassknoted/asl-alphabet).
+Data set was created by me (approximately 1200 images for 1 gesture). 
 
 **Data set structure:**
 ```
