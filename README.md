@@ -78,6 +78,6 @@ $ python asl_recognizer.py
 * `del`, `space` and `nothing` do what they suppose to do.
 * Input double `space` to apply `spellchecker` on the last word.
 
-**Disclaimer**
+## Disclaimer
 
 This project is just a way to practice my knowledge in CV and CNN in one place. It was not meant to be an app for actual practical usage.
