@@ -1,6 +1,6 @@
-# ASL Recognition from the Webcam
+# ASL Hand Gestures Recognition from the Webcam
 
-This repository is an implementation of using CNN network to identify American Sign Language gestures from the webcam and show the output on the screen.
+This repository is an implementation of using CNN network to identify American Sign Language hand gestures from the webcam and show the output on the screen.
 
 **Demo:**
 
@@ -16,7 +16,7 @@ This repository is an implementation of using CNN network to identify American S
 
 ## Data Set
 
-Data set was created by me (approximately 1200 images for 1 gesture). 
+Data set was created by me (approximately 1200 images for 1 gesture).
 
 **Data set structure:**
 ```
@@ -77,3 +77,7 @@ $ python asl_recognizer.py
 * Press `Q` to quit the script.
 * `del`, `space` and `nothing` do what they suppose to do.
 * Input double `space` to apply `spellchecker` on the last word.
+
+**Disclaimer**
+
+This project is just a way to practice my knowledge in CV and CNN in one place. It was not meant to be an app for actual practical usage.
